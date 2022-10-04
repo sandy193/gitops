@@ -6,4 +6,4 @@ spec:
   type: NodePort
   ports:
   - port: 8090
-    nodePort: 31371
+    nodePort: 31372
