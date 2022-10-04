@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: productapp-k8
-        image: kpradeep/devops-grovvy-products-ci-cd-k8
+        image: sandy193/devops-app-springboot-ci-cd
         resources:
           limits:
             memory: "128Mi"
