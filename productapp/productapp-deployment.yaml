@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: productapp-k8
-        image: sandy193/devops-app-springboot-ci-cd
+        image: sandy193/devops-app-springboot-ci-cd:latest
         resources:
           limits:
             memory: "128Mi"
